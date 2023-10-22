@@ -1,0 +1,85 @@
+
+*{
+    margin: 0;
+}
+
+
+body{
+    background: rgb(167, 49, 33);
+}
+
+header{
+    background: #ffffff;
+    margin: 0;
+}
+.bann1{
+    display: flex;
+    margin: 0;
+}
+
+.icongds{
+    width: 35px;
+    height: 35px;
+    
+}
+
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh; 
+    
+}
+
+.container {
+    position: relative;
+}
+
+.container .slider {
+    display: flex;
+    padding: 0px;
+    width: 600px;
+    height: 250px;
+    overflow: hidden;
+    scroll-behavior: smooth;
+}
+
+.container .slider img {
+    margin: 2px;
+}
+
+.container .control {
+    
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    cursor: pointer;
+    padding: 10px;
+}
+
+
+/*.wrapper{
+    max-width: 1200px;
+}
+
+
+.wrapper .carrusel{
+    font-size: 0px;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+
+.carrusel img{
+    
+    object-fit: cover;
+    margin-left: 14px;
+    width: 100;
+}
+
+.carrusel img:first-child{
+    margin: 0px;
+}*/
+
+
