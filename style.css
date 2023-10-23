@@ -238,9 +238,3 @@ h2{
     gap: 10px;
     width: 1000px;
 }
-
-
-@media screen and (max-height: 450px) {
-    .main{padding-top: 15px;}
-    .main{font-size: 18px;}
-  }
